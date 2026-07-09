@@ -8,7 +8,7 @@
 
 ## Purpose
 
-This document describes the high-level organizational structure of PT Nusantara Cakrawala Indonesia (PT NCI). It identifies the major business and IT functions that support the company's operations and serves as the foundation for defining business ownership, service ownership, and Configuration Management responsibilities.
+This document describes the high-level organizational structure of PT Khatulistiwa Manufacturing Indonesia (PT KMI). It identifies the major business and IT functions that support the company's operations and serves as the foundation for defining business ownership, service ownership, and Configuration Management responsibilities.
 
 ## Executive Leadership
 

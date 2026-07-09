@@ -9,7 +9,7 @@
 
 ## Purpose
 
-This document defines the key organizational roles involved in delivering, operating, and governing IT services at PT Nusantara Cakrawala Indonesia (PT NCI). These roles provide the foundation for ownership, accountability, and responsibility across Business Services, Technical Services, Configuration Items (CIs), and ITSM processes.
+This document defines the key organizational roles involved in delivering, operating, and governing IT services at PT Khatulistiwa Manufacturing Indonesia (PT KMI). These roles provide the foundation for ownership, accountability, and responsibility across Business Services, Technical Services, Configuration Items (CIs), and ITSM processes.
 
 ## Executive Roles
 

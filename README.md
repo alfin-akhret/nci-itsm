@@ -1,10 +1,10 @@
-# Enterprise ITSM Implementation – PT Nusantara Cakrawala Indonesia (PT NCI)
+# Enterprise ITSM Implementation – PT Khatulistiwa Manufacturing Indonesia (PT KMI)
 
 > A hands-on ITSM and Configuration Management laboratory based on ITIL 4 best practices.
 
 ## Overview
 
-This repository contains a complete simulation of an enterprise ITSM implementation for a fictional company, **PT Nusantara Cakrawala Indonesia (PT NCI)**.
+This repository contains a complete simulation of an enterprise ITSM implementation for a fictional company, **PT Khatulistiwa Manufacturing Indonesia (PT KMI)**.
 
 The primary objective is to design, document, and implement a Configuration Management System (CMS) and Configuration Management Database (CMDB) following ITIL 4 principles. The project models a realistic enterprise environment, including business services, technical services, configuration items (CIs), relationships, governance, and supporting processes.
 
