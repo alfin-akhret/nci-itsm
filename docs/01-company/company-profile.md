@@ -1,4 +1,10 @@
 # Company Profile
+| Field          | Value                          |
+| -------------- | ------------------------------ |
+| Document Owner | Enterprise Architecture Office |
+| Version        | 1.0                            |
+| Status         | Draft                          |
+| Last Updated   | 2026-07-09                     |
 
 ## Company Overview
 PT Nusantara Cakrawala Indonesia (PT NCI) is a fictional national manufacturing and distribution company specializing in food, beverages, and household products. The company operates an integrated supply chain across Indonesia, covering manufacturing, warehousing, distribution, sales, and customer services. This fictional organization serves as the enterprise case study for implementing ITIL 4 practices, including IT Service Management (ITSM), Configuration Management, and CMDB.
