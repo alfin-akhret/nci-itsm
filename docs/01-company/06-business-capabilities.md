@@ -61,8 +61,6 @@ This document defines the business capabilities of PT Khatulistiwa Manufacturing
 | Delivery Management | Coordinates product deliveries to customers.             |
 | Route Optimization  | Optimizes delivery routes and transportation efficiency. |
 
-...
-
 ---
 
 # Sales
